@@ -1,0 +1,10 @@
+#Installing libraries
+openai
+openai-whisper
+pytube
+langchain
+langchain_openai
+docarray
+llmlingua
+pinecone-client==3.0.0
+langchain_pinecone
