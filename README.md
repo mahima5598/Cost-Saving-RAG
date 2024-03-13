@@ -1,8 +1,8 @@
 # Cost-Saving-RAG
 
-This project is about implementing Cost-Saving strategies to RAG from my article: [Cost-Saving Strategies for Large Language Models(LLMs) - Part 1](https://www.linkedin.com/pulse/cost-reduction-strategies-large-language-modelsllms-mahima-chhagani-7642c/?trackingId=8aTtDQ1kRB%2BgVayei%2FdPaA%3D%3D). The repository uses a project inspired by [Santiago Valdarrama's repository](https://github.com/svpino/youtube-rag) and adds cost saving techniques to it.
-
 The project implemets RAG(Retrieval-Augmented Generation) using Pinecone and OpenAI to answer questions from youtube video. The cost saving strategies used in this project are handling prompts efficiently, prompt compression technique using LLMLingua with LangChain and LLM caching with LangChain. Hope you enjoy implementing it!
+
+The project implementes Cost-Saving strategies to RAG from my article: [Cost-Saving Strategies for Large Language Models(LLMs) - Part 1](https://www.linkedin.com/pulse/cost-reduction-strategies-large-language-modelsllms-mahima-chhagani-7642c/?trackingId=8aTtDQ1kRB%2BgVayei%2FdPaA%3D%3D). The repository uses a project inspired by [Santiago Valdarrama's repository](https://github.com/svpino/youtube-rag) and adds cost saving techniques to it.
 
 ## Setup
 
