@@ -23,7 +23,7 @@ OPENAI_API_KEY = [ENTER YOUR OPENAI API KEY HERE]
 PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 ```
 
-## For Better expeience
+## For Better Expeience
 
 1. Read the article and keep it open on side: [Cost-Saving Strategies for Large Language Models(LLMs) - Part 1](https://www.linkedin.com/pulse/cost-reduction-strategies-large-language-modelsllms-mahima-chhagani-7642c/?trackingId=8aTtDQ1kRB%2BgVayei%2FdPaA%3D%3D).
 2. If new to LLMs watch: [Building a RAG application from scratch using Python, LangChain, and the OpenAI API](https://www.youtube.com/watch?v=BrsocJb-fAo).
