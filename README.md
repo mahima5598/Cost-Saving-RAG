@@ -29,3 +29,5 @@ PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 2. If new to LLMs watch: [Building a RAG application from scratch using Python, LangChain, and ...](https://www.youtube.com/watch?v=BrsocJb-fAo).
 3. Read comments and markdown text to understand the code better.
 4. Subscribe to my newsletter for more such knowledge: [ALL ABOUT AI](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7165846835213914112).
+5. Scheme through the chart:
+![FlowChart](B4501942-020D-46AF-B7DD-BEA93E9DBE0A.jpeg)
